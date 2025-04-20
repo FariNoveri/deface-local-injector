@@ -1,3 +1,13 @@
+## ⚠️ Peringatan: Hanya untuk Bersenang-Senang! ⚠️
+
+Proyek ini hanya untuk **bersenang-senang**. Tidak ada niat serius di sini. 😎
+
+Silakan bereksperimen, bermain, dan nikmati prosesnya — tapi ingat, **jangan merusak apa pun**! 🎉
+
+Jika kamu sedang bersenang-senang, berarti kamu melakukannya dengan benar. Tetap ringan, tetap menyenankan! 🚀
+
+---
+
 ## **Langkah 1: Menyiapkan File HTML Lokal**
 
 1. **Buat File HTML yang Akan Digunakan**
