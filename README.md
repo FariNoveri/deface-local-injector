@@ -13,6 +13,7 @@ Jika kamu sedang bersenang-senang, berarti kamu melakukannya dengan benar. Tetap
 1. **Buat File HTML yang Akan Digunakan**
    - Pertama, buat file HTML dengan tampilan yang ingin kamu tampilkan. Ini adalah file yang akan menggantikan tampilan website yang ingin kamu ubah. Kamu bisa menggunakan teks editor seperti **Notepad++**, **VSCode**, atau **Sublime Text** untuk membuat file HTML.
    - Misalnya, buat file bernama `deface.html` di folder lokal kamu (misalnya di **D:/Script/deface.html**).
+   - Atau bisa cari di website "https://mysthck-team.blogspot.com/2018/04/bagi-bagi-script-deface-keren-nih-saya.html" lalu edit sendiri sesuai selera
 
    Berikut contoh **kode HTML** untuk file `deface.html`:
 
