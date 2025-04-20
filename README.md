@@ -15,7 +15,7 @@ Jika kamu sedang bersenang-senang, berarti kamu melakukannya dengan benar. Tetap
    - Misalnya, buat file bernama `deface.html` di folder lokal kamu (misalnya di **D:/Script/deface.html**).
    - Atau bisa cari di website "https://mysthck-team.blogspot.com/2018/04/bagi-bagi-script-deface-keren-nih-saya.html" lalu edit sendiri sesuai selera
 
-   Berikut contoh **kode HTML** untuk file `deface.html`:
+   Berikut contoh **kode HTML**, simpan dengan nama `deface.html` atau nama lainnya sesuai yang di inginkan :
 
    ```html
    <!-- Contoh file HTML (deface.html) -->
