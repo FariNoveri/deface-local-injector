@@ -179,4 +179,17 @@ Kamu bisa menonaktifkan CORS di browser, namun ini **hanya untuk tujuan pengujia
 
 Dengan langkah-langkah ini, kamu bisa mengganti tampilan website **hanya untuk diri sendiri** menggunakan **Tampermonkey**, **Python** sebagai server lokal, dan file HTML yang sudah kamu buat!
 
+
+## Masalah & Diskusi
+
+Jika kamu menemukan masalah atau ingin berdiskusi lebih lanjut, buka [Issue](https://github.com/FariNoveri/deface-local-injector/issues).
+
+---
+
+## Lisensi
+
+Proyek ini dilisensikan di bawah **MIT License** - lihat file [LICENSE](LICENSE) untuk detailnya.
+
+---
+
 ![GIF](https://img.wattpad.com/41c9345d63a13b6e112f04f3946bc4f3a58063b8/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f776174747061642d6d656469612d736572766963652f53746f7279496d6167652f786c46503948593063656a6373773d3d2d3239363933343039322e313437366131393238383631326566373139333235353433363333372e676966)
